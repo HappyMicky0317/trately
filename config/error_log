@@ -1,0 +1,8 @@
+[01-Apr-2023 14:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/asbwo9e2/trately.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/asbwo9e2/trately.com/config/cache.php on line 18
+[12-Apr-2023 15:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/asbwo9e2/trately.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/asbwo9e2/trately.com/config/cache.php on line 18
